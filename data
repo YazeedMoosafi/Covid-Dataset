@@ -1,0 +1,23 @@
+Date,Zone,Gender,Age,Status
+2020-03-06,Calgary Zone,Female,50-59 years,Recovered
+2020-03-09,Calgary Zone,Female,30-39 years,Recovered
+2020-03-09,Calgary Zone,Male,30-39 years,Recovered
+2020-03-09,Edmonton Zone,Male,60-69 years,Recovered
+2020-03-09,Edmonton Zone,Male,40-49 years,Recovered
+2020-03-09,Edmonton Zone,Female,70-79 years,Recovered
+2020-03-10,Edmonton Zone,Male,70-79 years,Recovered
+2020-03-10,Calgary Zone,Female,40-49 years,Recovered
+2020-03-09,Calgary Zone,Female,50-59 years,Recovered
+2020-03-10,Edmonton Zone,Female,60-69 years,Recovered
+2020-03-10,Edmonton Zone,Female,20-29 years,Recovered
+2020-03-10,Calgary Zone,Female,30-39 years,Recovered
+2020-03-10,Calgary Zone,Female,30-39 years,Recovered
+2020-03-10,Calgary Zone,Male,30-39 years,Recovered
+2020-03-11,Central Zone,Female,30-39 years,Recovered
+2020-03-11,Calgary Zone,Male,30-39 years,Recovered
+2020-03-11,Edmonton Zone,Male,30-39 years,Recovered
+2020-03-10,Calgary Zone,Male,20-29 years,Recovered
+2020-03-10,Calgary Zone,Male,50-59 years,Recovered
+2020-03-11,Calgary Zone,Male,1-4 years,Recovered
+2020-03-11,Calgary Zone,Female,70-79 years,Recovered
+2020-03-11,Calgary Zone,Female,30-39 years,Recovered
